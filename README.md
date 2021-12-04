@@ -1,5 +1,4 @@
 <h1 align="center"> 👋 Hii, I'm Prashant Phad</h1>
-<h3 align="center">“Testers don’t like to break things; they like to dispel the illusion that things work.”</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant169&label=Profile%20views&color=0e75b6&style=flat" alt="prashant169" /> </p>
 
